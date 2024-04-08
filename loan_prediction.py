@@ -142,7 +142,7 @@ def eval_metrics(actual, pred):
 def mlflow_logging(model, X, y, name):
     
      with mlflow.start_run() as run:
-        mlflow.set_tracking_uri("http://127.0.0.1:5000/")
+        mlflow.set_tracking_uri("http://127.0.0.1:5002/")
         run_id = run.info.run_id
         mlflow.set_tag("run_id", run_id)      
         pred = model.predict(X)

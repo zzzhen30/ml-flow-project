@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zzz/develop/ml-flow-project/mlruns/326756084301541071/470e85dacb7f43ac9fc2b37ca3c872b6/artifacts
+end_time: 1712552843933
+entry_point_name: ''
+experiment_id: '326756084301541071'
+lifecycle_stage: active
+run_id: 470e85dacb7f43ac9fc2b37ca3c872b6
+run_name: enchanting-fish-776
+run_uuid: 470e85dacb7f43ac9fc2b37ca3c872b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712552831241
+status: 4
+tags: []
+user_id: zzz

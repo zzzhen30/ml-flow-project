@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zzz/develop/ml-flow-project/mlruns/326756084301541071/938f2dadbc184071ab0df06db07350bf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '326756084301541071'
+lifecycle_stage: active
+run_id: 938f2dadbc184071ab0df06db07350bf
+run_name: nimble-duck-535
+run_uuid: 938f2dadbc184071ab0df06db07350bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712555042095
+status: 1
+tags: []
+user_id: zzz
